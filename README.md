@@ -3,7 +3,7 @@
 #### Description: *due to too many files in node_modules folder, I will not be uplaoding it. If you need it to work you might want to start another boilerplate and the npm dependencies.
 
 This project is made with two objective in mind; To learn React.js and how google search works at a fundamental level.
-The app is made with React.js Node.js, Tailwind css and a few few small libaries for funtionalities.
+The app is made with React.js Node.js, Tailwind css and a few few small non-critical libaries.
 As a twist, the searches will happen as the user is typing and will give partial searches along the way.
 I also implimented image and video searches as well as dark mode if anyone wants to view it.
 
